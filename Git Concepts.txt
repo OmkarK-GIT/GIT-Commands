@@ -1,0 +1,14 @@
+
+
+
+Versioning - Maintaning the multiple versions of the Document, program and websites,
+			 It keep track on every modification of the codes or the program with special data base.
+			 
+GIT - 		Its a distibuted version control system.
+		    Its support all non-linear development, fully distibuted, able to handle large projects.
+			
+ROLLBACK -	Commands for Rollback, we can rollback the changes before staged the data - "git checkout (FN)"
+			Before rollback, always check the difference between the files with - "diff"
+			If already statged the changes then use - "get restore --staged (file name)"
+			If you already commit the changes and want to revert - "git revert HEAD" , git reset --hard (ID)
+			
